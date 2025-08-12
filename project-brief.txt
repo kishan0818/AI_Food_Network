@@ -1,0 +1,109 @@
+Build a fully functional, interactive, and visually stunning prototype for the AI Food Waste-to-Hunger Network. The website should feel like an AI-powered community platform that connects surplus food to people in need — combining food aesthetics, community warmth, and cutting-edge AI visuals.
+
+Core Goals:
+
+A balance of human warmth (community, food imagery) and high-tech feel (AI patterns, predictive dashboards).
+
+Professional, colorful design using green (sustainability), yellow/orange (food & warmth), blue (technology & trust).
+
+Engaging micro-interactions (hover effects, subtle glows, icon animations).
+
+Fully responsive on all devices.
+
+Pages & Interactive Features:
+
+Home / Dashboard Page
+
+Hero section with AI-generated background video blending food rescue scenes + digital network visuals (flowing lines, predictive data overlays).
+
+Animated tagline: “Turning surplus into sustenance — using AI to make cities not just smarter, but kinder.” (fade-in word by word).
+
+Live Statistics Dashboard (mock AI predictions):
+
+Meals delivered today
+
+Food rescued (kg)
+
+CO₂ emissions saved
+
+Three quick CTA cards:
+
+“Report Surplus Food” (restaurant icon)
+
+“Find Food Nearby” (map pin + basket)
+
+“Partner With Us” (handshake icon)
+
+Problem & Solution Page
+
+Scroll-based storytelling: problem appears in sepia-toned images of waste & hunger, which then transition into colorful, hopeful solution visuals.
+
+Features with AI-inspired visuals (neural network lines, animated predictive graphs):
+
+Predicting Surplus
+
+Instant Connections
+
+Optimized Delivery
+
+Fair Distribution
+
+Transparency
+
+Impact Page
+
+Animated infographics showing environmental, social, and economic benefits.
+
+Hovering over a card reveals deeper AI predictions for that metric.
+
+Use food-themed icons (leaf for environment, bread for social, coin for economic).
+
+Get Involved Page
+
+Warm, inviting images of volunteers, chefs, and communities.
+
+Role-based sign-up form: NGO, Restaurant, Volunteer, Donor.
+
+Newsletter with “AI Weekly Insights” on food rescue.
+
+UI & Design Requirements:
+
+Framework: Next.js + Tailwind CSS + Framer Motion.
+
+Colors:
+
+Primary Green (#3CB371) — sustainability
+
+Warm Orange (#FFA500) — food warmth
+
+Blue (#007ACC) — AI trust
+
+Fonts: modern sans-serif with rounded edges (approachable yet professional).
+
+Shapes: soft cards with rounded corners, shadow depth.
+
+Backgrounds: subtle AI neural network animations and food textures (e.g., grain patterns, wooden boards).
+
+Navbar: sticky, with a glowing underline on hover.
+
+Buttons: gradient backgrounds (green-to-orange), smooth hover scaling.
+
+Technical Notes:
+
+Dummy JSON data for live stats and food listings.
+
+Mock integration points for AI surplus predictions.
+
+Optimized images for performance.
+
+SEO-ready meta tags.
+
+Deployable on Vercel instantly.
+
+Deliverables:
+
+Fully interactive, multi-page, polished prototype.
+
+Food + AI + society theme consistently visible across design.
+
+Placeholder content clearly marked for later replacement.
